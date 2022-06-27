@@ -180,7 +180,7 @@
 	},
 	"devDependencies": {
 		"cli-table2": "^0.2.0",
-		"codecov": "^2.1.0",
+		"codecov": "^3.7.1",
 		"del": "^3.0.0",
 		"delay": "^2.0.0",
 		"execa": "^0.8.0",
