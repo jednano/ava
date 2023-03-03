@@ -192,7 +192,7 @@
 		"is-array-sorted": "^1.0.0",
 		"lock-verify": "^1.1.0",
 		"lolex": "^2.1.2",
-		"nyc": "^11.0.3",
+		"nyc": "^15.1.0",
 		"proxyquire": "^1.7.4",
 		"react": "^15.6.1",
 		"react-test-renderer": "^15.6.1",
